@@ -1,0 +1,17 @@
+C:\Fonte\HttpRequest\bin\Debug\netcoreapp3.1\HttpRequest.exe
+C:\Fonte\HttpRequest\bin\Debug\netcoreapp3.1\HttpRequest.deps.json
+C:\Fonte\HttpRequest\bin\Debug\netcoreapp3.1\HttpRequest.runtimeconfig.json
+C:\Fonte\HttpRequest\bin\Debug\netcoreapp3.1\HttpRequest.runtimeconfig.dev.json
+C:\Fonte\HttpRequest\bin\Debug\netcoreapp3.1\HttpRequest.dll
+C:\Fonte\HttpRequest\bin\Debug\netcoreapp3.1\HttpRequest.pdb
+C:\Fonte\HttpRequest\obj\Debug\netcoreapp3.1\HttpRequest.csprojAssemblyReference.cache
+C:\Fonte\HttpRequest\obj\Debug\netcoreapp3.1\HttpRequest.AssemblyInfoInputs.cache
+C:\Fonte\HttpRequest\obj\Debug\netcoreapp3.1\HttpRequest.AssemblyInfo.cs
+C:\Fonte\HttpRequest\obj\Debug\netcoreapp3.1\HttpRequest.dll
+C:\Fonte\HttpRequest\obj\Debug\netcoreapp3.1\HttpRequest.pdb
+C:\Fonte\HttpRequest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Fonte\HttpRequest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Fonte\HttpRequest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Fonte\HttpRequest\bin\Debug\netcoreapp3.1\Nancy.dll
+C:\Fonte\HttpRequest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Fonte\HttpRequest\obj\Debug\netcoreapp3.1\HttpRequest.csproj.CopyComplete
